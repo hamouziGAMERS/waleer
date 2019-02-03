@@ -1,6 +1,6 @@
 owner=511361081894109229
 prefix=1
-game=playing|By|DAMN|1Play
+game=playing|By|Vairos|1Play
 stayinchannel=true
 songinstatus=false
 token=NTQxNjkxNTcwMDU1OTM4MDkz.DzjmAA.6Lz0TKpYw5b_l_ygtyGTF2ebPSA
